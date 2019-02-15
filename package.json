@@ -1,0 +1,11 @@
+{
+  "name": "webdriver-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WhoAteDaCake/webdriver-tests.git",
+  "author": "WhoAteDaCake <doitsimplefy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "^5.4.17"
+  }
+}
